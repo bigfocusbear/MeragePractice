@@ -10,10 +10,10 @@ $(document).ready(function(){
 });
 
 var pictures = [
-    "https://img.tenjo.tw/uploads/20180106214626_49.jpg",
-    "https://d3l76hx23vw40a.cloudfront.net/recipe/yqn41-006.jpg",
-    "https://tshop.r10s.com/ff1/509/d51e/03a9/70e2/a6f3/687b/11a8e682fd2c600ce3781e.jpg",
-    "https://tokyo-kitchen.icook.network/uploads/step/cover/827701/large_9e07de96fb5defb6.jpg",
-    "https://i.ytimg.com/vi/CJaAnZz2owo/maxresdefault.jpg"
+    "http://www.motogp.com/en/api/rider/photo/grid/old/7444",
+    "http://www.motogp.com/en/api/rider/photo/grid/old/5885",
+    "http://www.motogp.com/en/api/rider/photo/grid/old/8150",
+    "http://www.motogp.com/en/api/rider/photo/grid/old/8148",
+    "http://www.motogp.com/en/api/rider/photo/grid/old/158"
     
 ]
