@@ -1,10 +1,17 @@
 var topic = [
-    "尚未開學",
-    "國定假日",
-    "環境準備",
-    "隨機性",
-    "重複性",
-    "條件判斷"
+    "加泰隆尼亞",
+    "荷蘭",
+    "德國",
+    "捷克",
+    "奧地利",
+    "英國",
+    "聖馬利諾",
+    "亞拉岡",
+    "泰國",
+    "日本",
+    "澳洲",
+    "馬來西亞",
+    "瓦倫西亞"
 ];
 
 var startDate = new Date();
@@ -16,4 +23,4 @@ function setMonthAndDay(startMonth,startDay)
     startDate.setSeconds(0);
 }
 
-setMonthAndDay(4,1);
+setMonthAndDay(6,16);
